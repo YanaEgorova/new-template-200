@@ -152,8 +152,11 @@
     }
 
     .hero-products .products {
+        padding-left: 10rem;
+        padding-right: 10rem;
         display: flex;
         justify-content: space-between;
+        background-image: linear-gradient(to bottom, #ffffff, 80%, #00d9ed);
     }
     .products__box  {
         padding-top: 10rem;

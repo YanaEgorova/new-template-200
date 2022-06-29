@@ -52,6 +52,7 @@
 .policy {
     padding: 10rem 0;
     text-align: center;
+    border-top: .5rem solid var(--sub-text-color);
     background-color: var(--third-brand-color);
 }
 .policy__title {
