@@ -99,6 +99,9 @@
     .hero__btn-box {
         justify-content: flex-start;
     }
+    .hero .title {
+        max-width: 60rem;
+    }
 
 
     .contacts {
