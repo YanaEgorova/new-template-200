@@ -156,7 +156,7 @@
         padding-right: 10rem;
         display: flex;
         justify-content: space-between;
-        background-image: linear-gradient(to bottom, #ffffff, 80%, #00d9ed);
+        background-image: linear-gradient(to bottom, #ffffff, 80%, var(--third-brand-color));
     }
     .products__box  {
         padding-top: 10rem;
